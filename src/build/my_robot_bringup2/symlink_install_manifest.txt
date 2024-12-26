@@ -1,0 +1,15 @@
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup2
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup2
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/environment/ament_prefix_path.sh
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/environment/ament_prefix_path.dsv
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/environment/path.sh
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/environment/path.dsv
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/local_setup.bash
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/local_setup.sh
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/local_setup.zsh
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/local_setup.dsv
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/package.dsv
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/ament_index/resource_index/packages/my_robot_bringup2
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/cmake/my_robot_bringup2Config.cmake
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/cmake/my_robot_bringup2Config-version.cmake
+/home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/package.xml

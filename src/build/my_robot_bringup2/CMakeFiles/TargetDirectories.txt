@@ -1,0 +1,9 @@
+/home/nazia/ros2_ws3/src/build/my_robot_bringup2/CMakeFiles/uninstall.dir
+/home/nazia/ros2_ws3/src/build/my_robot_bringup2/CMakeFiles/my_robot_bringup2_uninstall.dir
+/home/nazia/ros2_ws3/src/build/my_robot_bringup2/CMakeFiles/test.dir
+/home/nazia/ros2_ws3/src/build/my_robot_bringup2/CMakeFiles/edit_cache.dir
+/home/nazia/ros2_ws3/src/build/my_robot_bringup2/CMakeFiles/rebuild_cache.dir
+/home/nazia/ros2_ws3/src/build/my_robot_bringup2/CMakeFiles/list_install_components.dir
+/home/nazia/ros2_ws3/src/build/my_robot_bringup2/CMakeFiles/install.dir
+/home/nazia/ros2_ws3/src/build/my_robot_bringup2/CMakeFiles/install/local.dir
+/home/nazia/ros2_ws3/src/build/my_robot_bringup2/CMakeFiles/install/strip.dir

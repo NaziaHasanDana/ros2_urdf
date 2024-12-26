@@ -1,0 +1,13 @@
+<?xml version ="1.0"?>
+<robot name="my_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">   
+     
+    <xacro:include filename="$(find my_robot2_description)/urdf/common_properties.xacro" />
+
+    <xacro:include filename="$(find my_robot2_description)/urdf/arm.xacro" />
+
+     <xacro:include filename="$(find my_robot2_description)/urdf/arm_gazebo.xacro" />
+
+
+
+   
+</robot>   

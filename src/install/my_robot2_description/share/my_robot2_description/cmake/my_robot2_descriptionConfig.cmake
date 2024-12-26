@@ -1,0 +1,1 @@
+/home/nazia/ros2_ws3/src/build/my_robot2_description/ament_cmake_core/my_robot2_descriptionConfig.cmake

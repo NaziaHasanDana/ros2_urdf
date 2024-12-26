@@ -1,0 +1,20 @@
+[0.039s] Invoking command in '/home/nazia/ros2_ws3/src/build/my_robot_bringup2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nazia/ros2_ws3/src/build/my_robot_bringup2 -- -j2 -l2
+[0.330s] Invoked command in '/home/nazia/ros2_ws3/src/build/my_robot_bringup2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nazia/ros2_ws3/src/build/my_robot_bringup2 -- -j2 -l2
+[0.471s] Invoking command in '/home/nazia/ros2_ws3/src/build/my_robot_bringup2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nazia/ros2_ws3/src/build/my_robot_bringup2
+[0.512s] -- Install configuration: ""
+[0.513s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup2
+[0.513s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup2
+[0.513s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/environment/ament_prefix_path.sh
+[0.513s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/environment/ament_prefix_path.dsv
+[0.513s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/environment/path.sh
+[0.513s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/environment/path.dsv
+[0.517s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/local_setup.bash
+[0.517s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/local_setup.sh
+[0.518s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/local_setup.zsh
+[0.518s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/local_setup.dsv
+[0.518s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/package.dsv
+[0.519s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/ament_index/resource_index/packages/my_robot_bringup2
+[0.519s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/cmake/my_robot_bringup2Config.cmake
+[0.519s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/cmake/my_robot_bringup2Config-version.cmake
+[0.519s] -- Up-to-date: /home/nazia/ros2_ws3/src/install/my_robot_bringup2/share/my_robot_bringup2/package.xml
+[0.520s] Invoked command in '/home/nazia/ros2_ws3/src/build/my_robot_bringup2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nazia/ros2_ws3/src/build/my_robot_bringup2
