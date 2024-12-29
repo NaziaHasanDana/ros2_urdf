@@ -1,6 +1,7 @@
 # ros2_urdf
 URDF is an xml file format that includes elements (joints, links) of a robot. 
-Installation:
+
+#Installation:
 # Step 1: Clone the repository
 git clone git@github.com:NaziaHasanDana/ros2_urdf.git
 
